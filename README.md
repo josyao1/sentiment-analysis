@@ -1,4 +1,4 @@
-### Project Title: Sentiment Analysis Web Application
+### Sentiment Analysis Project
 
 #### Description
 This project is a web application that allows users to input a sentence and receive a sentiment analysis score in return. The sentiment score ranges from 0 to 1, indicating how positive the sentence is. The application uses a pre-trained model to predict the sentiment and is built using Flask for the backend and HTML/CSS for the frontend.
